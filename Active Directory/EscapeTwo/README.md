@@ -1,4 +1,4 @@
-# Escape — Hack The Box Write-up
+# EscapeTwo — Hack The Box Write-up
 
 ## Enumeration
 
